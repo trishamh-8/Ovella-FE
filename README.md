@@ -345,14 +345,6 @@ Lihat [ATTRIBUTIONS.md](./ATTRIBUTIONS.md) untuk detail lengkap.
 
 ---
 
-## 🔗 Tautan
-
-- 🎨 **Desain Figma:** [figma.com/design/S6VM26mOb7CZOVugTzY1HC/Ovella](https://www.figma.com/design/S6VM26mOb7CZOVugTzY1HC/Ovella)
-- 📑 **Proposal Akademik:** *(coming soon)*
-- 🏆 **Kompetisi:** Dipersiapkan untuk GEMASTIK & kompetisi UI/UX nasional
-
----
-
 <div align="center">
 
 Dibuat dengan 💗 untuk kesehatan hormonal perempuan Indonesia
