@@ -271,20 +271,6 @@ pnpm dev
 
 ---
 
-## 📱 Screenshot
-
-> *Prototipe ini menampilkan tampilan mobile (393×852px, iPhone 16 Pro frame)*
-
-| Splash & Onboarding | Home Dashboard | AI Hub |
-|:---:|:---:|:---:|
-| *(splash.png)* | *(home.png)* | *(aihub.png)* |
-
-| Hormonal Fingerprint™ | Luteal Intelligence™ | Doctor Report |
-|:---:|:---:|:---:|
-| *(fingerprint.png)* | *(luteal.png)* | *(report.png)* |
-
----
-
 ## 🏗️ Arsitektur Prototipe
 
 Ini adalah **UI prototype** — seluruh data bersifat statis/mock. Tidak ada backend atau API terintegrasi.
@@ -371,6 +357,6 @@ Lihat [ATTRIBUTIONS.md](./ATTRIBUTIONS.md) untuk detail lengkap.
 
 Dibuat dengan 💗 untuk kesehatan hormonal perempuan Indonesia
 
-**Ovella** — *Kenali tubuhmu, dari dalam.*
+**Ovella** - *Kenali dirimu dari dalam.*
 
 </div>
