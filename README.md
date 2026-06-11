@@ -14,9 +14,6 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.x-06B6D4?style=flat-square&logo=tailwindcss)](https://tailwindcss.com)
 [![Figma Make](https://img.shields.io/badge/Built%20with-Figma%20Make-F24E1E?style=flat-square&logo=figma)](https://www.figma.com/make)
 
-[Lihat Desain Figma](https://www.figma.com/design/S6VM26mOb7CZOVugTzY1HC/Ovella) · [Demo Langsung](#) · [Laporan Bug](#) · [Request Fitur](#)
-
----
 
 </div>
 
