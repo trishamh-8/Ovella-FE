@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="src/imports/ChatGPT_Image_Jun_6__2026__01_40_34_PM.png" alt="Ovella Logo" width="120" height="120" />
-
 # Ovella
 
 **Platform Kesehatan Hormonal Perempuan Berbasis AI**
